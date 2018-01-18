@@ -1,3 +1,4 @@
+
 describe 'querying' do
   before do
     @db = SQLite3::Database.new(':memory:')
